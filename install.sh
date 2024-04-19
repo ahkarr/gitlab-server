@@ -33,5 +33,8 @@ sudo vim /etc/gitlab/initial_root_password
 
 # gitlab password
 7iNu)x:r2@CW^Z#
+aK7Y@_7@r@Tm_>W
+
+# git lab user
 
 
